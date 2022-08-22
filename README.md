@@ -19,13 +19,10 @@ VOTES | number of people who had reviewed the film at the time we pulled it.
 Column | Definition
 --- | -----------
 FILM | The film in question
-?RottenTomatoes | The Rotten Tomatoes Tomatometer score for the film
-?RottenTomatoes_User | The Rotten Tomatoes user score for the film
+RottenTomatoes | The Rotten Tomatoes Tomatometer score for the film
+RottenTomatoes_User | The Rotten Tomatoes user score for the film
 Metacritic | The Metacritic critic score for the film
 Metacritic_User | The Metacritic user score for the film
 IMDB | The IMDb user score for the film
-Fandango_Stars | The number of stars the film had on its Fandango movie page
-Fandango_Ratingvalue | The Fandango ratingValue for the film, as pulled from the HTML of each page. This is the actual average score the movie obtained.
 Metacritic_user_vote_count | The number of user votes the film had on Metacritic
 IMDB_user_vote_count | The number of user votes the film had on IMDb
-?Fandango_votes | The number of user votes the film had on Fandango
