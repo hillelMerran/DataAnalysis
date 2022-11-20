@@ -1,5 +1,5 @@
 # DataAnalysis on fandango ratings
-This directory contains a quick analysis behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](https://fivethirtyeight.com/features/fandango-movies-ratings/).
+This directory contains an analysis behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](https://fivethirtyeight.com/features/fandango-movies-ratings/).
 
 This analysis is based on pre-existing data found at this [link](https://github.com/fivethirtyeight/data/blob/master/fandango/README.md).
 Part of the data was dropped before analysis in order to carry out the analysis from raw data without processed columns.
